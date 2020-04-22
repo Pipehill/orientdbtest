@@ -43,6 +43,5 @@ public class OrientdbtestApplication {
         SpringApplication.run(OrientdbtestApplication.class, args);
 
         System.out.println("Started...");
-        System.out.println("Listening...");
     }
 }
